@@ -2,7 +2,6 @@ import os
 import requests
 import platform
 username = os.getlogin()
-# sudo apt install net-tools
 if platform.system() == "Linux":
     pass
 else:
