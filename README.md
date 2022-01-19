@@ -17,7 +17,7 @@
  sudo apt install git
 ```
 ```
- https://github.com/darkhunter141/Wifi-Hunter.git
+ git clone https://github.com/darkhunter141/Wifi-Hunter.git
 ```
 ```
  cd Wifi-Hunter
