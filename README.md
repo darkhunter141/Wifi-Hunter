@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/darkhunter141/Database/blob/main/wifihunter_logo.png?raw=true">
+  <img src="https://github.com/darkhunter141/Database/blob/main/wifihunter_logo.png?raw=true">  
+  Version : 1
 </p>
 
 
