@@ -11,7 +11,7 @@
 - Start monitor mode
 - Stop monitor mode
 - Wireless-tools installer
-- new tools are comming soon
+- new tools are coming soon
 
 
 
