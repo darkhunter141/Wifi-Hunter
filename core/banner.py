@@ -9,7 +9,7 @@ class banners :
     |__/|__/_/_/ /_/  /_/ /_/\__,_/_/ /_/\__/\___/_/     
                                                 
                     \033[00mAuthor : Team Dark Hunter 141
-                    \033[00mVersion: 1.0 (Demo)'''
+                    \033[00mVersion: 1.0'''
     print("\033[92m"+banner)
     print("")
     print("\033[94m"+"_"*55)
