@@ -31,7 +31,7 @@ def main_option(no, name):
     print(f"\n\033[91m [\033[00m{no}\033[91m] \033[93m{name}")
 from core.banner import banners
 banners()
-main_option(1, "Install Wireless-tools (beta)")
+main_option(1, "Install Wireless-tools (Install First)")
 main_option(2, "Wifi Spam")
 main_option(3, "Start monitor mode")
 main_option(4, "Stop monitor mode")
