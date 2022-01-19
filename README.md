@@ -4,7 +4,7 @@
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
+<img src="">
 <br>
 <br>
 <h3><b>Installation : </b></h3>
