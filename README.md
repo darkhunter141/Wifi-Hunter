@@ -1,7 +1,36 @@
 <p align="center">
   <img src="https://github.com/darkhunter141/Database/blob/main/wifihunter_logo.png?raw=true">  
 </p> 
+<br>
+<h3><b>📸Screenshot</b></h3>
+<br>
+<img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
+<br>
+<br>
+<h3><b>Installation : </b></h3>
+<br>
 
+```
+ sudo apt install python3
+```
+```
+ sudo apt install git
+```
+```
+ https://github.com/darkhunter141/Wifi-Hunter.git
+```
+```
+ cd Wifi-Hunter
+```
+```
+ sudo python3 main.py
+```
+<h3><b>Copy & Paste</b></h3>
+
+```
+sudo apt install python3 && sudo apt install git && git clone https://github.com/darkhunter141/Wifi-Hunter.git && cd cd Wifi-Hunter && sudo python3 main.py
+```
+<br>
 
 
 ## Features :
