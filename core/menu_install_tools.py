@@ -43,6 +43,7 @@ def choice_intall_tools():
         os.system("sudo apt-get install bully")
         print("\033[91m[\033[00m*\033[91m] Installing mdk3..\033[00m")
         os.system("sudo apt-get install mdk3")
+        os.system("sudo apt install net-tools")
         print("\n\n Done")
         print("\n\033[91m Back home (y/n) ")
         option = input("\n\n\033[92m ͟w͟i͟f͟i͟-͟h͟u͟n͟t͟e͟r͟ > ")
