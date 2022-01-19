@@ -15,6 +15,12 @@
 
 
 
+## Platform :
+
+
+- Linux 
+
+
 <br>
 <h3><b>Installation : </b></h3>
 <br>
