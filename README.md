@@ -20,7 +20,7 @@
  git clone https://github.com/darkhunter141/Wifi-Hunter.git
 ```
 ```
- cd Wifi-Hunter
+cd Wifi-Hunter
 ```
 ```
  sudo python3 main.py
@@ -28,7 +28,7 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-sudo apt install python3 && sudo apt install git && git clone https://github.com/darkhunter141/Wifi-Hunter.git && cd cd Wifi-Hunter && sudo python3 main.py
+sudo apt install python3 && sudo apt install git && git clone https://github.com/darkhunter141/Wifi-Hunter.git && cd Wifi-Hunter&& sudo python3 main.py
 ```
 <br>
 
