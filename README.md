@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/darkhunter141/Database/blob/main/wifihunter_logo.png?raw=true">  
-  Version : 1
+    <img src="https://img.shields.io/badge/Version-1-red?style=for-the-badge">
 </p>
 
 
